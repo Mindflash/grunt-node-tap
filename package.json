@@ -1,18 +1,18 @@
 {
 	"name": "grunt-node-tap",
 	"description": "A Grunt task to run node-tap tests and read their output.",
-	"version": "1.0.0",
-	"homepage": "https://github.com/maxnachlinger/grunt-node-tap",
+	"version": "0.1.57",
+	"homepage": "https://github.com/Mindflash/grunt-node-tap",
 	"author": {
-		"name": "Max Nachlinger",
-		"url": "https://github.com/maxnachlinger"
+		"name": "Mindflash",
+		"url": "https://github.com/Mindflash"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/maxnachlinger/grunt-node-tap.git"
+		"url": "git://github.com/Mindflash/grunt-node-tap.git"
 	},
 	"bugs": {
-		"url": "https://github.com/maxnachlinger/grunt-node-tap/issues"
+		"url": "https://github.com/Mindflash/grunt-node-tap/issues"
 	},
 	"license": "ISC",
 	"main": "Gruntfile.js",
